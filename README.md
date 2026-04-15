@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7C3AED&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=22&descAlignY=65" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Lilla&fontSize=80&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=20" alt="Lilla's Banner" />
 
   <br />
 
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9061FF&center=true&vCenter=true&width=600&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions;Turning+Ideas+into+Efficient+Code" alt="Typing SVG" />
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions" alt="Skills Animation" />
+
+  <br />
 
   <p align="center">
     <a href="https://discord.com/users/kurden1891"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
@@ -14,7 +14,7 @@
   </p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=radical&no-frame=false&margin-w=15&column=3" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=radical&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 

@@ -1,9 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lilla&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,2&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Java%20Specialist&descSize=25&descAlignY=65" />
 
-  ### ⚡ Java Developer | Discord Bots & Minecraft Plugins
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97CF8&center=true&vCenter=true&width=435&lines=Building+immersive+Minecraft+experiences;Developing+robust+Discord+Bots;Mastering+Java+and+JDA)](https://git.io/typing-svg)
+  <br />
+
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+Scalable+Minecraft+Systems;Architecting+Robust+Discord+Bots;Mastering+Java+%26+Backend+Logic" alt="Typing SVG" />
+  </h1>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&column=3" alt="trophies" />
+  </a>
+
+  <br />
 </div>
 
 ---

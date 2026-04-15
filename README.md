@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Lilla&fontSize=80&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=20" alt="Lilla's Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Lilla&fontSize=80&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=20&v=1" alt="Lilla's Banner" />
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions&v=1" alt="Skills Animation" />
 
   <br />
 
@@ -14,7 +14,7 @@
   </p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=radical&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=radical&margin-w=15&ignore_cache=true" alt="GitHub Trophies" />
   </a>
 </div>
 

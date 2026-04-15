@@ -1,16 +1,28 @@
-## Hi there 👋
+# Lilla
 
-<!--
-**LillaBlatten/LillaBlatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Discord Bots & Minecraft Plugins
 
-Here are some ideas to get you started:
+Passionate about creating immersive experiences through **Minecraft plugin development** and building robust Discord bots using **JDA (Java Discord API)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Get in Touch
+
+* **Discord:** `kurden1891`
+* **Telegram:** `@enkurd`
+* **Email:** `lillablatten@gmail.com`
+
+---
+
+### ☕ About Me
+
+```json
+{
+  "name": "LillaBlatten",
+  "age": 22,
+  "location": Sweden,
+  "languages": ["Java"],
+  "focus": ["Plugin Development", "API Design"],
+  "databases": ["MongoDB"],
+  "timezone": "GMT+1"
+}

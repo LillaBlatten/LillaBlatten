@@ -51,14 +51,22 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 
 ---
 
-### ☕ System.out.println("About Me");
+### ☕ System.out.println(Lilla.getInfo());
+
 ```json
 {
-  "name": "LillaBlatten",
-  "age": 22,
-  "location": "Sweden",
-  "languages": ["Java"],
-  "focus": ["Plugin Development", "API Design"],
-  "databases": ["MongoDB"],
-  "timezone": "GMT+1"
+  "identity": {
+    "alias": "LillaBlatten",
+    "origin": "Sweden 🇸🇪",
+    "experience": "22_years_old"
+  },
+  "stack": {
+    "primary": "Java",
+    "frameworks": ["Spigot", "Paper", "JDA"],
+    "database": "MongoDB"
+  },
+  "status": {
+    "current_focus": "High-Performance API Design",
+    "timezone": "UTC/GMT +1"
+  }
 }

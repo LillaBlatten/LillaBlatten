@@ -1,17 +1,25 @@
 <div align="center">
-  <img src="banner.png" alt="Lilla's Custom Header" style="max-width: 100%;" />
 
-  <br />
+# 🌌 Lilla
+### 🛠️ Minecraft & Discord Bot Developer
+  
+---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions&v=1" alt="Skills Animation" />
+![Java](https://img.shields.io/badge/JAVA-Development-9061FF?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Status](https://img.shields.io/badge/STATUS-Online-green?style=for-the-badge)
 
-  <br />
+---
 
-  <p align="center">
-    <a href="https://discord.com/users/kurden1891"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-    <a href="https://t.me/enkurd"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions&v=2" alt="Skills Animation" />
+
+<br />
+
+<p align="center">
+  <a href="https://discord.com/users/kurden1891"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/enkurd"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
 </div>
 
 ---

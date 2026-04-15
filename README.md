@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30,2,5&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=22&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=22&descAlignY=65&theme=dark" />
 
   <br />
 
@@ -8,16 +8,14 @@
   </h1>
 
   <p align="center">
-    <a href="https://discord.com/users/kurden1891"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://t.me/enkurd"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://discord.com/users/kurden1891"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+    <a href="https://t.me/enkurd"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-frame=true&margin-w=15&column=3" alt="trophies" />
   </a>
-
-  <br />
 </div>
 
 ---
@@ -27,29 +25,29 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord%20JDA-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-9061FF?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-9061FF?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDA-9061FF?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-9061FF?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-9061FF?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📬 Connect With Me
 <p align="left">
-  <a href="https://discord.com/users/kurden1891" target="_blank"><img src="https://img.shields.io/badge/Discord-kurden1891-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/enkurd" target="_blank"><img src="https://img.shields.io/badge/Telegram-@enkurd-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-lillablatten%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/kurden1891" target="_blank"><img src="https://img.shields.io/badge/Discord-kurden1891-9061FF?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/enkurd" target="_blank"><img src="https://img.shields.io/badge/Telegram-@enkurd-9061FF?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9061FF?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---

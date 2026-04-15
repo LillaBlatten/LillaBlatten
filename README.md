@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Lilla&fontSize=80&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=20&v=1" alt="Lilla's Banner" />
+  <img src="banner.png" alt="Lilla's Custom Header" style="max-width: 100%;" />
 
   <br />
 
@@ -12,10 +12,6 @@
     <a href="https://t.me/enkurd"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" /></a>
     <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=radical&margin-w=15&ignore_cache=true" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---

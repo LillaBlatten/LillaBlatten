@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,2&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Java%20Specialist&descSize=25&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30,2,5&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=22&descAlignY=65" />
 
   <br />
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+Scalable+Minecraft+Systems;Architecting+Robust+Discord+Bots;Mastering+Java+%26+Backend+Logic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9061FF&center=true&vCenter=true&width=600&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions;Turning+Ideas+into+Efficient+Code" alt="Typing SVG" />
   </h1>
+
+  <p align="center">
+    <a href="https://discord.com/users/kurden1891"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://t.me/enkurd"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:lillablatten@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&column=3" alt="trophies" />

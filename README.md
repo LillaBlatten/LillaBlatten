@@ -2,11 +2,6 @@
 
 # 🌌 Lilla
 ### 🛠️ Minecraft & Discord Bot Developer
-  
----
-
-![Java](https://img.shields.io/badge/JAVA-Development-9061FF?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Status](https://img.shields.io/badge/STATUS-Online-green?style=for-the-badge)
 
 ---
 

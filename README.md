@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=22&descAlignY=65&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=7C3AED&height=250&section=header&text=Lilla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Minecraft%20%26%20Discord%20Bot%20Developer&descSize=22&descAlignY=65" alt="Header" />
 
   <br />
 
@@ -14,7 +14,7 @@
   </p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-frame=true&margin-w=15&column=3" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=radical&no-frame=false&margin-w=15&column=3" alt="trophies" />
   </a>
 </div>
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌌 Lilla
-### 🛠️ Minecraft plugin & Discord Bot Developer
+### 🛠️ Minecraft Plugin & Discord Bot Developer
 
 ---
 

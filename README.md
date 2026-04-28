@@ -36,46 +36,43 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=120&section=header&text=LillaBlatten%20//%20Java%20Architect&fontSize=40&fontColor=7aa2f7&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=100&section=header&text=%E2%96%B6_LillaBlatten.exec&fontSize=35&fontColor=7aa2f7&animation=fadeIn" width="100%" />
 
   <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/JAVA_CORE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/JDA_EXPERT-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    <img src="https://img.shields.io/badge/SPIGOT_ENGINE-F7931E?style=for-the-badge&logo=minecraft&logoColor=white" />
-    <img src="https://img.shields.io/badge/PAPER_CORE-111111?style=for-the-badge&logo=papermc&logoColor=white" />
+    <img src="https://img.shields.io/badge/DEVELOPER_LEVEL-SENIOR_JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/BOT_CORE-JDA_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/ENGINE_TYPE-SPIGOT_PAPER-F7931E?style=for-the-badge&logo=minecraft&logoColor=white" />
   </p>
 
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="33%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&hide_rank=true" height="170" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&text_color=9aa5ce&icon_color=7aa2f7&hide_rank=true" height="150" />
       </td>
-      <td width="33%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000" height="170" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true&background=00000000" height="170" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&text_color=9aa5ce" height="150" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LillaBlatten&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=bb9af7" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LillaBlatten&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=bb9af7&height=280" width="100%" />
 
   <br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-bg=true&margin-w=15&column=7&rank=SSS,SS,S,A" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-bg=true&margin-w=20&column=7&rank=SSS,SS,S,A" width="100%" />
 
   <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/OS-SWEDEN_LOC-7aa2f7?style=flat-square&logo=googlemaps&logoColor=7aa2f7" />
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-9ece6a?style=flat-square&logo=statuspage&logoColor=9ece6a" />
-    <img src="https://img.shields.io/badge/RUNTIME-2026_STABLE-bb9af7?style=flat-square&logo=googlecloud&logoColor=bb9af7" />
+    <img src="https://img.shields.io/badge/REGION-SE-7aa2f7?style=flat-square&logo=mapstack&logoColor=7aa2f7" />
+    <img src="https://img.shields.io/badge/STATUS-SYSTEM_STABLE-9ece6a?style=flat-square&logo=checkmarx&logoColor=9ece6a" />
+    <img src="https://img.shields.io/badge/VULNERABILITY-0%25-bb9af7?style=flat-square&logo=snyk&logoColor=bb9af7" />
+    <img src="https://img.shields.io/badge/UPTIME-2026_ACTIVE-f7768e?style=flat-square&logo=googlecloud&logoColor=f7768e" />
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=50&section=footer" width="100%" />
 </div>
 
 ---

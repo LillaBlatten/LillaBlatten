@@ -36,38 +36,25 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=System%20Core%20Stats" width="48%" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&langs_count=8" width="48%" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=79bbff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&langs_count=8&title_color=7aa2f7&text_color=9aa5ce" width="44%" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=f7768e" width="94%" />
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-bg=true&margin-w=15&column=8&rank=-C" width="94%" />
+
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/2026_CONTRIBUTOR-7aa2f7?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/ENGINEER-ACTIVE-bb9af7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/RUNTIME-STABLE-9ece6a?style=for-the-badge" />
+  </p>
 </div>
-
-<br clear="both" />
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
-<br />
-
-<details>
-  <summary align="center"><b>🏆 View Personal Achievements</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-bg=true&margin-w=15&column=4" />
-  </div>
-</details>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LillaBlatten&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Developer-7aa2f7?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/LillaBlatten/LillaBlatten?color=bb9af7&label=Last%20Update&style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-VS%20Code-37b0f1?style=flat-square&logo=visual-studio-code" />
-</p>
 
 ---
 

@@ -18,3 +18,4 @@ jobs:
         with:
           COMMIT_MSG: "⚡ Update README with latest activity"
           MAX_LINES: 10
+          TEMPLATE: "👉 **$repoName**: $description ($timeLeft)"

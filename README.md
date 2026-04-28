@@ -36,14 +36,23 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00000000&height=120&section=header&text=%E2%96%B6_LILLA_BLATTEN.jar&fontSize=50&fontColor=7aa2f7&animation=twinkling&fontAlignY=35&desc=SYSTEM%20ARCHITECT%20%E2%94%83%20JAVA%20%E2%80%A2%20JDA%20%E2%80%A2%20PAPERMC&descSize=16&descAlignY=65&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=▶_LillaBlatten.java&fontSize=45&fontColor=7aa2f7&animation=fadeIn&fontAlignY=45&desc=JDA%20%E2%80%A2%20Spigot%20%E2%80%A2%20PaperMC%20%E2%80%A2%20Backend%20Architect&descSize=14&descAlignY=75" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-9ece6a?style=flat-square&logo=statuspage&logoColor=9ece6a" />
-  <img src="https://img.shields.io/badge/JAVA-v21-ED8B00?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/NETWORK-SECURE-bb9af7?style=flat-square&logo=databricks&logoColor=bb9af7" />
+  <code><b>STATUS:</b> ACTIVE_NODE</code> &nbsp;&nbsp; 
+  <code><b>UPTIME:</b> 2026.STABLE</code> &nbsp;&nbsp; 
+  <code><b>CORE:</b> JVM_V21</code>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JDA-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PaperMC-111111?style=flat-square&logo=papermc&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
+
+---
 
   <p align="center">
     <img src="https://img.shields.io/badge/JAVA_VIRTUAL_MACHINE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />

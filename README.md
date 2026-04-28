@@ -33,13 +33,30 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Dashboard
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-2ea44f?style=for-the-badge" alt="Maintained" />
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-e91916?style=for-the-badge" alt="Open Source" />
+    <img src="https://img.shields.io/github/commit-activity/m/LillaBlatten?color=7aa2f7&label=COMMITS&style=for-the-badge" alt="Commit Activity" />
+  </p>
 </div>
 
 ---

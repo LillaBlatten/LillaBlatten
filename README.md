@@ -36,10 +36,14 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=▶_LillaBlatten.jar&fontSize=60&fontColor=7aa2f7&animation=twinkling&fontAlignY=35&desc=System%20Architect%20//%20JDA%20%26%20Java%20Expert&descSize=20&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=220&section=header&text=%E2%96%B6_LILLA_BLATTEN.jar&fontSize=65&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20ARCHITECT%20%E2%94%83%20JAVA%20%E2%80%A2%20JDA%20%E2%80%A2%20PAPERMC&descSize=18&descAlignY=62&descAlign=50&stroke=7aa2f7&strokeWidth=1" width="100%" />
 </div>
 
-  <br />
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_STABLE-9ece6a?style=flat-square&logo=statuspage&logoColor=9ece6a" />
+  <img src="https://img.shields.io/badge/CORE-V21_JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-bb9af7?style=flat-square&logo=databricks&logoColor=bb9af7" />
+</p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/JAVA_VIRTUAL_MACHINE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />

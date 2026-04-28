@@ -44,6 +44,8 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 
 ### 🛠 Recent Coding Activity
 
+---
+
 ### 📬 Connect With Me
 <p align="left">
   <a href="https://discord.com/users/kurden1891" target="_blank"><img src="https://img.shields.io/badge/Discord-kurden1891-9061FF?style=flat-square&logo=discord&logoColor=white" /></a>

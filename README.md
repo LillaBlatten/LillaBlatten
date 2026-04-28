@@ -43,7 +43,7 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
   <p align="center">
     <img src="https://img.shields.io/badge/CORE_ENGINE-JAVA_JDA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/SERVER_RUNTIME-PAPER_SPIGOT-F7931E?style=for-the-badge&logo=minecraft&logoColor=white" />
-    <img src="https://img.shields.io/badge/DATA_LAYER-MARIADB_REDIS-003545?style=for-the-badge&logo=mariadb" />
+    <img src="https://img.shields.io/badge/DATA_LAYER-MONGODB-003545?style=for-the-badge&logo=mongodb" />
   </p>
 
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -71,7 +71,7 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
   <p align="center">
     <img src="https://img.shields.io/badge/REGION-SWEDEN-7aa2f7?style=flat-square&logo=googlemaps&logoColor=7aa2f7" />
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9ece6a?style=flat-square&logo=statuspage&logoColor=9ece6a" />
-    <img src="https://img.shields.io/badge/BUILD-2026.4.28-bb9af7?style=flat-square" />
+    <img src="https://img.shields.io/badge/BUILD-2026-bb9af7?style=flat-square" />
     <img src="https://img.shields.io/badge/UPTIME-100%25-f7768e?style=flat-square" />
   </p>
 

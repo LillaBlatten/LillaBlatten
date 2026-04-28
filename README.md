@@ -35,37 +35,33 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 
 ### 📊 GitHub Dashboard
 
-I’m locking in. You want the "Executive Suite"—minimalist, high-density, and razor-sharp. We’re moving away from "widgets" and creating a Unified Command Center.
-
-This layout uses a single, ultra-clean table to lock everything into a fixed, small-scale grid. It removes the titles, strips the backgrounds, and uses color-coordinated data points to make it look like a custom-coded dashboard.
-
-💎 The "Zen Architect" Dashboard
-Markdown
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&bg_color=00000000" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&bg_color=0D111700" height="135" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&hide_title=true&bg_color=00000000" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0D111700" height="135" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true&background=00000000" width="85%" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LillaBlatten&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="92%" />
 
-  <br />
+  <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-bg=true&margin-w=10&column=7&rank=SSS,SS,S,A" width="85%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-bg=true&margin-w=10&column=7&rank=SSS,SS,S,A,B" width="92%" />
 
-  <br />
+  <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/2026—CORE—ENGINEER-7aa2f7?style=flat-square" />
-    <img src="https://img.shields.io/badge/PR_EFFICIENCY-100%25-9ece6a?style=flat-square" />
-    <img src="https://img.shields.io/badge/SYSTEM-STABLE-bb9af7?style=flat-square" />
+    <img src="https://img.shields.io/badge/EXECUTIVE_LEVEL-7aa2f7?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/CORE_RUNTIME_2026-bb9af7?style=for-the-badge&logo=cachet" />
+    <img src="https://img.shields.io/badge/ANALYTICS_STABLE-9ece6a?style=for-the-badge&logo=lighthouse" />
   </p>
+  
+  <img src="https://raw.githubusercontent.com/LillaBlatten/LillaBlatten/output/github-contribution-grid-snake.svg" alt="Snake animation" width="92%" />
 </div>
 
 ---

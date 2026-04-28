@@ -22,4 +22,4 @@ jobs:
         with:
           COMMIT_MSG: "⚡ Update README with latest activity"
           MAX_LINES: 8
-          README_FILEPATH: ./README.md
+          TARGET_FILE: README.md

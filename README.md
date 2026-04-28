@@ -39,21 +39,6 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=▶_LillaBlatten.java&fontSize=45&fontColor=7aa2f7&animation=fadeIn&fontAlignY=45&desc=JDA%20%E2%80%A2%20Spigot%20%E2%80%A2%20PaperMC%20%E2%80%A2%20Backend%20Architect&descSize=14&descAlignY=75" width="100%" />
 </div>
 
-<p align="center">
-  <code><b>STATUS:</b> ACTIVE_NODE</code> &nbsp;&nbsp; 
-  <code><b>UPTIME:</b> 2026.STABLE</code> &nbsp;&nbsp; 
-  <code><b>CORE:</b> JVM_V21</code>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JDA-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PaperMC-111111?style=flat-square&logo=papermc&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-</p>
-
----
-
   <p align="center">
     <img src="https://img.shields.io/badge/JAVA_VIRTUAL_MACHINE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
     <img src="https://img.shields.io/badge/JDA_ASYNC_CORE-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />

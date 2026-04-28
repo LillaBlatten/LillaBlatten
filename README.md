@@ -40,10 +40,9 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  ### 🛠 Recent Coding Activity
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LillaBlatten&theme=tokyonight&hide_border=true" />
 </div>
 
+### 🛠 Recent Coding Activity
 ---
 
 ### 📬 Connect With Me

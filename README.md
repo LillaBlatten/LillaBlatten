@@ -37,6 +37,7 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=▶_LillaBlatten.jar&fontSize=60&fontColor=7aa2f7&animation=twinkling&fontAlignY=35&desc=System%20Architect%20//%20JDA%20%26%20Java%20Expert&descSize=20&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
   <br />
 

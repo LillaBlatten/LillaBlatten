@@ -77,6 +77,7 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%" />
 </div>
+
 ---
 
 ### 📬 Connect With Me

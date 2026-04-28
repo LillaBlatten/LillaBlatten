@@ -37,10 +37,9 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
 </div>
 
 ---

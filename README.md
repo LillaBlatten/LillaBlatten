@@ -43,7 +43,6 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 </div>
 
 ### 🛠 Recent Coding Activity
----
 
 ### 📬 Connect With Me
 <p align="left">

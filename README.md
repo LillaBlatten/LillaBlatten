@@ -42,7 +42,6 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" />
 </div>
 
-### 🛠 Recent Coding Activity
 ---
 
 ### 📬 Connect With Me

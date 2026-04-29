@@ -70,7 +70,7 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
   <p align="center">
     <img src="https://img.shields.io/badge/LOC-SWEDEN-7aa2f7?style=flat-square&logo=googlemaps&logoColor=7aa2f7" />
     <img src="https://img.shields.io/badge/NODE-ACTIVE-9ece6a?style=flat-square&logo=statuspage&logoColor=9ece6a" />
-    <img src="https://img.shields.io/badge/VER-2026.4.28-bb9af7?style=flat-square" />
+    <img src="https://img.shields.io/badge/VER-2026-bb9af7?style=flat-square" />
     <img src="https://img.shields.io/badge/LATENCY-LOW-f7768e?style=flat-square" />
   </p>
 

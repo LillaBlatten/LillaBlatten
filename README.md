@@ -23,8 +23,8 @@ I am a 22-year-old developer based in **Sweden**, specializing in high-performan
 | Category | Technologies |
 | :--- | :--- |
 | **Core Development** | `Java` `Spigot API` `PaperMC` `JDA` |
-| **Data Architecture** | `MongoDB` `MariaDB` `Redis` |
-| **Tools & Env** | `IntelliJ IDEA` `Git` `Docker` `Maven` |
+| **Data Architecture** | `MongoDB` `MariaDB` |
+| **Tools & Env** | `IntelliJ IDEA` `Git` `Maven` |
 
 ---
 

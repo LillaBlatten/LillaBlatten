@@ -39,16 +39,13 @@ I am a 22-year-old developer based in **Sweden**, specializing in high-performan
 ### 📊 GitHub Insights
 <div align="center">
 
-<!-- Main Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7aa2f7&icon_color=bb9af7&text_color=9aa5ce" alt="General Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7aa2f7&text_color=9aa5ce" alt="Top Languages" height="180px" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=9aa5ce&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&text_color=9aa5ce&hide_border=true" width="300" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LillaBlatten&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=f7768e&height=300" width="100%" />
+<br/>
 
-<!-- Trophies -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LillaBlatten&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=f7768e&height=300" width="100%" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=LillaBlatten&theme=tokyonight&no-bg=true&margin-w=15&column=7&rank=SSS,SS,S,A" width="100%" />
 
 </div>

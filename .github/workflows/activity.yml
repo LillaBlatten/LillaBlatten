@@ -18,7 +18,7 @@ jobs:
       - name: Update Activity Section
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }} 
         with:
-          COMMIT_MSG: "sys: updated recent activity [skip ci]"
-          MAX_LINES: 8
+          COMMIT_MSG: "sys: updated recent activity history [skip ci]"
+          MAX_LINES: 15

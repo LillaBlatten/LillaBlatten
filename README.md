@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 LillaBlatten
+# LillaBlatten
 **Backend Architect • Java Engineer • API Designer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Specializing+in+Spigot+%26+Paper+API;Building+Feature-Rich+Discord+Bots;Architecting+Scalable+Java+Solutions" alt="Skills Animation" />

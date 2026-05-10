@@ -2,18 +2,18 @@ name: Update README Activity
 
 on:
   schedule:
-    - cron: '0 * * * *' # This triggers the update every hour
-  workflow_dispatch: # This allows you to manually trigger it from the Actions tab
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essential: allows the action to push the update to your README
+      contents: write
     
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4 # Gets your code
+        uses: actions/checkout@v4
 
       - name: Update Activity Section
         uses: jamesgeorge007/github-activity-readme@master
@@ -22,4 +22,3 @@ jobs:
         with:
           COMMIT_MSG: "sys: updated recent activity [skip ci]"
           MAX_LINES: 8
-          EMPTY_COMMITS: false

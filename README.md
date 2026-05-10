@@ -17,10 +17,12 @@
 ---
 
 ### 🚀 Recent System Activity
-*Initializing activity stream...*
+`*Initializing activity stream...*`
+
 ---
 
 ### ☕ `System.out.println(Lilla.getEnv());`
+
 ```json
 {
   "status": "ACTIVE",

@@ -22,8 +22,8 @@ I am a 22-year-old developer based in **Sweden**, specializing in high-performan
 
 | Category | Technologies |
 | :--- | :--- |
-| **Core Development** | `Java` `Spigot API` `PaperMC` `JDA` |
-| **Data Architecture** | `MongoDB` `MariaDB` |
+| **Core Development** | `Java` `Spigot API` `PaperMC` `Discord API` `JDA` |
+| **Data Architecture** | `MongoDB` |
 | **Tools & Env** | `IntelliJ IDEA` `Git` `Maven` |
 
 ---
@@ -52,7 +52,7 @@ I am a 22-year-old developer based in **Sweden**, specializing in high-performan
 ```json
 {
   "developer": {
-    "alias": "LillaBlatten",
+    "alias": "Lilla",
     "location": "Sweden 🇸🇪",
     "timezone": "CET (UTC+1)"
   },

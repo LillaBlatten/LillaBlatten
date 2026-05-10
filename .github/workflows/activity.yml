@@ -22,3 +22,5 @@ jobs:
         with:
           COMMIT_MSG: "sys: updated recent activity history [skip ci]"
           MAX_LINES: 15
+          # This explicitly includes your code commits (PushEvent)
+          FILTER_EVENTS: PushEvent,PullRequestEvent,IssuesEvent,ReleaseEvent,IssueCommentEvent

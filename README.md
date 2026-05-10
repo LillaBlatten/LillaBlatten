@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lilla
+# ⚡ Lilla
 **Backend Architect • Java Engineer • API Designer**
 
 <br>
@@ -11,22 +11,22 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7aa2f7&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=System.out.println(%22Hello+World%22);%3E+Architecting+Scalable+Java;%3E+Optimizing+Paper+Minecraft+APIs;%3E+Developing+High-Load+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=System.out.println(%22Backend+Architect%22);Developing+High-Load+Systems;Optimizing+Paper+%26+Spigot+APIs;Architecting+Java+Solutions" alt="Typing SVG" />
 
 ---
 
-### 🛠️ Engineering Stack
-
-`Java` • `PaperMC` • `Spigot` • `MongoDB` • `JDA` • `Redis` • `Maven`
+### 🛠️ Core Engineering Stack
+`Java` • `PaperMC` • `Spigot` • `MongoDB` • `JDA` • `Redis` • `Maven` • `Git`
 
 ---
 
 ### 📊 System Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LillaBlatten&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillaBlatten&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LillaBlatten&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 
 </div>
